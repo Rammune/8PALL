@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">8PALL</string>
+    <string name="raputa">Raputa, et saada vastus!</string>
+    <string name="menu">raputa</string>
+
+    <string-array name="vastused">
+        <item>jah, kindlasti</item>
+        <item>mitte kunagi</item>
+        <item>maailma lõpp</item>
+        <item>küsi hiljem uuesti</item>
+        <item>lootust on</item>
+    </string-array>
+</resources>
